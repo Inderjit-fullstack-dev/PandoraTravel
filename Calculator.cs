@@ -19,6 +19,6 @@ public class Calculator : ICalculator
 
     public int Division(int a, int b)
     {
-        // No implementation
+        return a / b;
     }
 }
