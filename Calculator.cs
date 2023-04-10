@@ -4,7 +4,7 @@ public class Calculator : ICalculator
 
     public int Addition(int a, int b)
     {
-        // No implementation
+        return a + b;
     }
 
     public int Subtraction(int a, int b)
