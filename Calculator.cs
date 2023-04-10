@@ -9,7 +9,7 @@ public class Calculator : ICalculator
 
     public int Subtraction(int a, int b)
     {
-        // No implementation
+        return a - b;
     }
 
     public int Multiplication(int a, int b)
