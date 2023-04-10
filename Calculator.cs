@@ -4,6 +4,7 @@ public class Calculator : ICalculator
 
     public int Addition(int a, int b)
     {
+        // comment added by dev1
         return a + b;
     }
 
